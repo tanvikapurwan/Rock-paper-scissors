@@ -27,7 +27,7 @@ scissors = '''
 ---.__(___)
 '''
 
-#Write your code below this line 👇
+#Code Below
 
 game_images = [rock, paper, scissors]
 
